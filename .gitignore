@@ -5,3 +5,4 @@ node_modules
 pages/versions
 static/images/generated
 generated/navigation-data.json
+.idea/
